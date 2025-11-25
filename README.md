@@ -2,6 +2,8 @@
 
 This is the codebase for personalityAI(Personality Recognition task).
 
+It provides a simple and extensible code for creating personality recognition models.
+
 
 ### Repository Tree
 
